@@ -1,0 +1,9 @@
+grammar org.dslengineering.p3demo.P3DemoDsl with org.eclipse.xtext.common.Terminals
+
+generate p3DemoDsl "http://www.dslengineering.org/p3demo/P3DemoDsl"
+
+Model:
+	greetings+=Greeting*;
+	
+Greeting:
+	'Hello' name=ID '!';
