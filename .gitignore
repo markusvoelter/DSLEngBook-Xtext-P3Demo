@@ -1,0 +1,9 @@
+.metadata/
+org.dslengineering.p3demo.tests/bin/
+org.dslengineering.p3demo.tests/src-gen/
+org.dslengineering.p3demo.ui/bin/
+org.dslengineering.p3demo.ui/src-gen/
+org.dslengineering.p3demo/bin/
+org.dslengineering.p3demo/src-gen/
+org.dslengineering.p3demo/xtend-gen/
+
